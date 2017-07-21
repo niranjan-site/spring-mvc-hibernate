@@ -16,5 +16,12 @@ public class TestController
 		logger.debug("testMethod() invoked");
 		return "index";
 	}
+	
+	@RequestMapping(value = "/test", method = RequestMethod.POST)
+	public String testMethodPost()
+	{
+		logger.debug("testMethodPost() invoked");
+		return "index";
+	}
 
 }
