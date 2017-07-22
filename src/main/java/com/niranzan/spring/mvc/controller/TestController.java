@@ -1,4 +1,4 @@
-package com.nirazan.spring.mvc.controller;
+package com.niranzan.spring.mvc.controller;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;
