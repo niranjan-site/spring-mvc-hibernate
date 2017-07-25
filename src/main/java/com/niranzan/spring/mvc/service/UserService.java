@@ -9,5 +9,6 @@ public interface UserService
 	public User getUserByUserId(String userId);
 	public User createUser(String userId, String password, String email);
 	public void deleteUser(User user);
+	public boolean isValidUser(String userName, String password);
 
 }
