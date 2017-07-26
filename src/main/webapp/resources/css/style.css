@@ -8,3 +8,19 @@
 {
 	border: 1px solid;
 }
+
+.cntr-new
+{
+	background-color: white;
+	width: 75%;
+}
+
+.row-margin-top
+{
+	margin-top: 15px;
+}
+
+body
+{
+	background-color: #E6E6E6;
+}

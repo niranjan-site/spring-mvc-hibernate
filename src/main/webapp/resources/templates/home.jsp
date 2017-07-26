@@ -8,26 +8,38 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Home
-<div class="container">
-	<div class="row">
+<div class="container cntr-new">
+	<div class="row row-margin-top">
 		<div class="col-md-4">
-			<img alt="" class="home-img thumbnail" src="https://marketplace.hpe.com/api/getImagesCached?fileName=c04437745_en_US_ITF0R8OMCQTE9XTJ13YBNE4M0XPIPRGR.png"></img>
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_servers.png"></img>
 		</div>
 		<div class="col-md-4">
-			<img alt="" class="home-img thumbnail" src="https://marketplace.hpe.com/api/getImagesCached?fileName=msa2040_TEST_en_US_FP2YO4DUGU2GFGVUHDVWQ6B5T48FCTQA.JPG"></<img>
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_storage.png"></<img>
 		</div>
 		<div class="col-md-4">
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_networking.png"></<img>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-4">
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_support_and_services.png"></img>
 		</div>
 		<div class="col-md-4">
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_options.png"></<img>
 		</div>
 		<div class="col-md-4">
+			<img alt="" class="home-img thumbnail" src="/app/resources/images/home_enterprise_software.png"></<img>
 		</div>
 	</div>
 </div>
+	<div class="row">
+		<div class="col-md-4">
+		</div>
+		<div class="col-md-4">
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+
 </body>
 </html>

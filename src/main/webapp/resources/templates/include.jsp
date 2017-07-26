@@ -14,4 +14,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
+<body style="background-color: : #E6E6E6 !important"></body>
 </html>

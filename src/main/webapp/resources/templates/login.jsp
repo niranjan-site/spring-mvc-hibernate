@@ -13,12 +13,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form:form id="loginForm" action="processLogin" modelAttribute="user" method="post">
-		<form:label path="userId">User Name</form:label>
-		<form:input path="userId" name="userId" id="userId"/><br>
-		<form:label path="password">Password</form:label>
-		<form:password path="password" name="password" id="password"/><br>
-		<form:button name="login" id="login">Login</form:button>
-	</form:form>
+	
+	<div class="container cntr-new">
+		<div class="row">
+			<div class="col-md-12">
+				<form:form id="loginForm" action="processLogin" modelAttribute="user" method="post">
+					<form:label path="userId">User Name</form:label>
+					<form:input path="userId" name="userId" id="userId"/><br>
+					<form:label path="password">Password</form:label>
+					<form:password path="password" name="password" id="password"/><br>
+					<form:button name="login" id="login">Login</form:button>
+				</form:form>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
